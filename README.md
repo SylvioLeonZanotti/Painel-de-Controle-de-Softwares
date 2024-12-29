@@ -7,7 +7,7 @@ Este projeto é um **Painel de Controle Web** desenvolvido para gerenciar softwa
 ## Índice
 1. [Funcionalidades Principais](#funcionalidades-principais)
 2. [Como Funciona?](#como-funciona)
-3. [Por Que Este Projeto é Bom?](#por-que-este-projeto-é-bom)
+3. [Principais funcionalidades](#principais-funcionalidades)
 4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 5. [Próxima implementação](#próxima-implementação)
 6. [Capturas de Tela](#capturas-de-tela)
@@ -50,7 +50,7 @@ Este projeto é um **Painel de Controle Web** desenvolvido para gerenciar softwa
 
 ---
 
-## Por Que Este Projeto é Bom?
+## Principais funcionalidades
 
 - **Centralização do Controle:**
   O painel fornece uma visão unificada e organizada de todos os softwares gerenciados, permitindo ações rápidas como aprovação, ativação e desativação.
