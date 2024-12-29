@@ -81,5 +81,6 @@ Este projeto é um **Painel de Controle Web** desenvolvido para gerenciar softwa
 - **SQLite:** Simples e eficiente para desenvolvimento inicial.
 - **Compatível com PostgreSQL/MySQL:** Facilmente expansível para ambientes de produção.
 
-
+## Screenshots iniciais
+![image](https://github.com/user-attachments/assets/e1fd9781-b349-458b-bf59-7ce8a2f7e4d8)
 
