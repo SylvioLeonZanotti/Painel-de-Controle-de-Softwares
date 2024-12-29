@@ -9,7 +9,8 @@ Este projeto é um **Painel de Controle Web** desenvolvido para gerenciar softwa
 2. [Como Funciona?](#como-funciona)
 3. [Por Que Este Projeto é Bom?](#por-que-este-projeto-é-bom)
 4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-5. [Capturas de Tela](#capturas-de-tela)
+5. [Próxima implementação](#próxima-implementação)
+6. [Capturas de Tela](#capturas-de-tela)
 
 ---
 
