@@ -81,6 +81,13 @@ Este projeto é um **Painel de Controle Web** desenvolvido para gerenciar softwa
 - **SQLite:** Simples e eficiente para desenvolvimento inicial.
 - **Compatível com PostgreSQL/MySQL:** Facilmente expansível para ambientes de produção.
 
+## Próxima implementação
+- Forma de pagamento para renovação de licenças através da página do cliente podendo escolher entre PIX, boleto ou cartão de crédito.
+
 ## Screenshots iniciais
 ![image](https://github.com/user-attachments/assets/e1fd9781-b349-458b-bf59-7ce8a2f7e4d8)
+
+## Área do cliente
+![image](https://github.com/user-attachments/assets/ce75ea11-219d-4652-82d7-06691dcc4777)
+
 
